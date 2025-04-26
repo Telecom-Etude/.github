@@ -1,6 +1,6 @@
 
-[![Website](https://img.shields.io/badge/Website-telecom--etude.fr-blue)](telecom-etude.fr)
-[![Contact](https://img.shields.io/badge/Contact-contact@telecom--etude.fr-green)](telecom-etude.fr/contact)
+[![Website](https://img.shields.io/badge/Website-telecom--etude.fr-blue)](https://telecom-etude.fr)
+[![Contact](https://img.shields.io/badge/Contact-contact@telecom--etude.fr-green)](https://telecom-etude.fr/contact)
 
 Welcome to the GitHub of [Telecom Etude](https://telecom-etude.fr/), the Junior-Entreprise specialising in data science, computer engineering, and software development.
 
